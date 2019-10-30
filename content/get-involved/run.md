@@ -101,6 +101,10 @@ https://www.irna.ir/
 https://www.euronews.com/
 http://ru.rfi.fr/
 https://ar.qantara.de/
+https://www.rferl.org
+https://www.rfa.org
+https://www.radiotelevisionmarti.com/
+https://www.radiosawa.com/
 {{</oonirunurls>}}
 
 {{<oonirunurls text="VPNs (21 URLs)">}}
